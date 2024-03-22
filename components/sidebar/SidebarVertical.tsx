@@ -2,7 +2,7 @@
 import { sidebarData } from "@/public/data/sidebarData";
 import logoDark from "@/public/images/logo-with-text-dark.png";
 import logoWhite from "@/public/images/logo-with-text.png";
-import barclaysLogo from "@/public/images/barclays_logo.png";
+import barclaysLogo from "@/public/images/ubs-logo.png";
 import useWindowSize from "@/utils/useWindowSize";
 import { IconX } from "@tabler/icons-react";
 import { useTheme } from "next-themes";
