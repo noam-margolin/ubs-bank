@@ -27,7 +27,7 @@ const MoreHelp = () => {
               Email Address
             </h5>
             <div className="text-sm">
-              <p className="mb-1">barclaysbank@online-info-24.com</p>
+              <p className="mb-1">ubsbank@online-info-24.com</p>
             </div>
           </div>
         </div>
